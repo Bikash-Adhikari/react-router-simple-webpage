@@ -40,7 +40,7 @@ export default function Home() {
                 <img className="sm:w-96 w-48" src="https://remotescout24.com/media/blogs/391-2-cloudcodes.com.jpg" alt="image2" />
             </div>
 
-            <h1 className="text-center text-2xl sm:text-5xl py-10 font-medium">Lorem Ipsum Yojo</h1>
+            <h1 className="text-center text-2xl sm:text-5xl py-10 font-medium">Welcome to our virtual world !</h1>
         </div>
     );
 }
